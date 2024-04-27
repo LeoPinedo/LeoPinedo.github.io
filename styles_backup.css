@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #000e3b;
+    background-image: url("Background_Image.jpg");
     }
 header {
     background-color: #460101;
@@ -24,7 +24,7 @@ nav a {
 article {
     padding: 20px;
     margin: 20px;
-    background-color: #fff;
+    background-color: #fff9f9c9;
     }
 h2 {
     color: #333;
