@@ -2,16 +2,16 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #052283;
+    background-color: #000e3b;
     }
 header {
-    background-color: #333;
+    background-color: #460101;
     color: #fff;
     padding: 20px;
     text-align: center;
     }
 nav {
-    background-color: #d40000;
+    background-color: #2c0000;
     color: #fff;
     padding: 10px;
     text-align: center;
